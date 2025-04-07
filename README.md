@@ -6,9 +6,10 @@
 
 ## 👋 About Me
 
-Hi there! I'm Irgi apriana abas, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
+I'm Irgi apriana abas, a passionate 4th-semester Information Technology student with a deep curiosity for coding, problem-solving, and exploring the endless possibilities of tech.
 
 - 🌱 I’m currently learning advanced Java
+- 🚀 My goals contributing to open-source, building impactful projects, and growing as a developer.
 - 💬 Ask me about web development, Java, or any tech-related topics.
 
 ## 💻 Technologies & Tools
