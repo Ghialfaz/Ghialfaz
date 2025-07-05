@@ -16,8 +16,8 @@ I'm Irgi apriana abas, a passionate 4th-semester Information Technology student 
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="Java">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="40" alt="Spring">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="40" height="40" alt="Java">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" width="40" height="40" alt="Spring">
 </div>
 
 ## 📊 GitHub Stats
