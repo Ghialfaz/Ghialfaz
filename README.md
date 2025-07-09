@@ -10,7 +10,7 @@ I'm Irgi apriana abas, a passionate 4th-semester Information Technology student 
 
 - 🌱 I’m currently learning advanced Java
 - 🚀 My goals contributing to open-source, building impactful projects, and growing as a developer.
-- 💬 Ask me about web development, Java, or any tech-related topics.
+- 💬 Ask me anything, I like to be friends with anyone
 
 ## 💻 Technologies & Tools
 
