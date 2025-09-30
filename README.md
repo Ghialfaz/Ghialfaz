@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-I'm Irgi apriana abas, a passionate 4th-semester Information Technology student with a deep curiosity for coding, problem-solving, and exploring the endless possibilities of tech.
+I'm Irgi Apriana Abas, a passionate 5th-semester Information Technology student with a deep curiosity for coding, problem-solving, and exploring the endless possibilities of tech.
 
-- 🌱 I’m currently learning advanced Java
+- 🌱 I’m currently learning advanced Kotlin
 - 🚀 My goals contributing to open-source, building impactful projects, and growing as a developer.
 - 💬 Ask me anything, I like to be friends with anyone
 
@@ -18,6 +18,7 @@ I'm Irgi apriana abas, a passionate 4th-semester Information Technology student 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="40" height="40" alt="Java">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" width="40" height="40" alt="Spring">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin">
 </div>
 
 ## 📊 GitHub Stats
