@@ -23,4 +23,3 @@ I'm Irgi Apriana Abas, a passionate 5th-semester Information Technology student 
 </div>
 
 ## 📊 GitHub Stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ghialfaz&theme=transparent)
